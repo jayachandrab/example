@@ -1,0 +1,1 @@
+GitHub local makes it really easy to add your projects to a GitHub repo. In the second video of our "Getting Started With GitHub" series, “GitHub Desktop," CodeTime instructor Pete Medina shows users how to easy it is to get it installed and configured.
